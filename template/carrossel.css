@@ -1,0 +1,172 @@
+/* Modelo de carrossel @franco_tecnologia
+   Cada <section class="slide"> vira uma imagem 1080x1350. */
+/* Fontes locais (Inter e Space Grotesk, licença OFL), funcionam sem internet */
+@font-face {
+  font-family: 'Inter';
+  font-weight: 400 500;
+  src: url('fonts/inter.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Space Grotesk';
+  font-weight: 500 700;
+  src: url('fonts/space-grotesk.woff2') format('woff2');
+}
+
+:root {
+  --bg: #060a13;
+  --texto: #eef2fb;
+  --texto-suave: #c9d3e4;
+  --cinza: #8ea4c4;
+  --destaque: #3cc8f5;
+  --linha: rgba(142, 164, 196, 0.18);
+  --margem: 130px;
+  --titulo: 'Space Grotesk', system-ui, sans-serif;
+  --corpo: 'Inter', system-ui, sans-serif;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: #1b2130;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
+  padding: 40px 0;
+}
+body.exportando { background: var(--bg); padding: 0; gap: 0; }
+
+.slide {
+  position: relative;
+  width: 1080px;
+  height: 1350px;
+  flex: none;
+  overflow: hidden;
+  background:
+    radial-gradient(ellipse 700px 420px at 100% 0%, rgba(24, 74, 100, 0.55), transparent 70%),
+    radial-gradient(ellipse 520px 360px at 0% 100%, rgba(22, 50, 96, 0.35), transparent 70%),
+    var(--bg);
+  color: var(--texto);
+  font-family: var(--corpo);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 var(--margem);
+}
+
+/* Grade sutil ao fundo */
+.slide::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(var(--linha) 1px, transparent 1px),
+    linear-gradient(90deg, var(--linha) 1px, transparent 1px);
+  background-size: 90px 90px;
+  opacity: 0.22;
+  pointer-events: none;
+}
+
+/* Cabeçalho e rodapé (inseridos por carrossel.js) */
+.topo, .rodape {
+  position: absolute;
+  left: var(--margem);
+  right: var(--margem);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-family: var(--titulo);
+  font-size: 28px;
+  font-weight: 500;
+}
+.topo { top: 70px; color: var(--cinza); letter-spacing: 0.14em; text-transform: uppercase; }
+.rodape { bottom: 70px; }
+.rodape .arroba { color: var(--destaque); }
+.rodape .arroba span { color: var(--cinza); }
+.rodape .arraste { color: var(--cinza); letter-spacing: 0.02em; }
+
+.conteudo { position: relative; }
+
+/* Rótulo em caixa alta acima do título */
+.rotulo {
+  font-family: var(--titulo);
+  font-weight: 700;
+  font-size: 30px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--destaque);
+  margin-bottom: 30px;
+}
+
+/* Barrinha azul no lugar do rótulo */
+.barra {
+  width: 120px;
+  height: 6px;
+  border-radius: 3px;
+  background: var(--destaque);
+  box-shadow: 0 0 18px rgba(60, 200, 245, 0.6);
+  margin-bottom: 58px;
+}
+
+h1, h2 {
+  font-family: var(--titulo);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  color: var(--texto);
+}
+h1 { font-size: 124px; line-height: 1.06; }
+h2 { font-size: 74px; line-height: 1.12; }
+
+/* Palavra em destaque dentro do título */
+em {
+  font-style: normal;
+  color: var(--destaque);
+}
+h1 em { text-shadow: 0 0 28px rgba(60, 200, 245, 0.55); }
+
+p {
+  font-size: 44px;
+  line-height: 1.4;
+  color: var(--texto-suave);
+  margin-top: 44px;
+}
+h1 + p { margin-top: 60px; }
+
+/* Lista numerada (slide de resumo) */
+.lista { list-style: none; margin-top: 16px; }
+.lista li {
+  display: flex;
+  gap: 50px;
+  padding: 34px 0 32px;
+  border-bottom: 2px solid rgba(142, 164, 196, 0.22);
+  font-family: var(--titulo);
+  font-weight: 500;
+  font-size: 52px;
+  line-height: 1.15;
+  color: var(--texto);
+}
+.lista li::before {
+  content: counter(item, decimal-leading-zero);
+  counter-increment: item;
+  flex: none;
+  width: 50px;
+  padding-top: 6px;
+  font-size: 40px;
+  color: var(--destaque);
+}
+.lista { counter-reset: item; }
+
+/* Botão de chamada (último slide) */
+.botao {
+  display: inline-block;
+  align-self: flex-start;
+  margin-top: 64px;
+  padding: 28px 48px;
+  border: 3px solid var(--destaque);
+  border-radius: 999px;
+  box-shadow: 0 0 26px rgba(60, 200, 245, 0.35);
+  font-family: var(--titulo);
+  font-weight: 700;
+  font-size: 44px;
+  color: var(--destaque);
+}
