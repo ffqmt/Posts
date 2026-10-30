@@ -39,3 +39,7 @@ postN-assunto/
 | Botão | `<div class="botao">Salve para depois</div>` | último slide |
 
 A numeração (01/09), o "arraste →" e o @ entram sozinhos. O último slide não mostra "arraste".
+
+## Publicação diária
+
+Um carrossel por dia sai às 10h pelo Metricool. A fila de temas está em `pauta.md` e o passo a passo que o agente diário segue está em `AGENTE.md`.

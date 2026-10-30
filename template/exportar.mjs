@@ -2,7 +2,7 @@
 // Uso: node template/exportar.mjs post5-reforma-2027 [pasta-de-saida]
 import { chromium } from 'playwright';
 import { resolve, basename } from 'node:path';
-import { mkdirSync } from 'node:fs';
+import { mkdirSync, existsSync } from 'node:fs';
 import { pathToFileURL } from 'node:url';
 
 const pasta = process.argv[2];
@@ -14,7 +14,9 @@ const nome = basename(resolve(pasta));
 const saida = resolve(process.argv[3] || pasta);
 mkdirSync(saida, { recursive: true });
 
-const browser = await chromium.launch();
+// Nas sessões na nuvem o Chromium pré-instalado pode ser de outra versão do Playwright.
+const chromiumFixo = '/opt/pw-browsers/chromium';
+const browser = await chromium.launch(existsSync(chromiumFixo) ? { executablePath: chromiumFixo } : {});
 const page = await browser.newPage({ viewport: { width: 1080, height: 1350 } });
 await page.goto(pathToFileURL(resolve(pasta, 'slides.html')).href + '?exportar');
 await page.evaluate(async () => {
