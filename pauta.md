@@ -12,11 +12,11 @@ Pilares, em rodízio para não repetir assunto em dias seguidos:
 
 | # | Pilar | Tema | CTA | Status |
 |---|---|---|---|---|
-| 8 | R | Reforma ano a ano, de 2026 a 2033 | Salve | agendado 2026-10-31 |
+| 8 | R | Reforma ano a ano, de 2026 a 2033 | Salve | cancelado (Fernanda: tema batido, não traz cliente) |
 | 9 | A | 5 sinais de que é hora de automatizar | Comente o número | agendado 2026-11-01 |
 | 10 | R | Split payment: o imposto separado no pagamento | Compartilhe | agendado 2026-11-02 |
-| 11 | F | Checklist de fechamento do mês em 7 passos | Salve | a fazer |
-| 12 | A | Quanto custa uma hora repetitiva da sua equipe (conta simples) | Comente | a fazer |
+| 11 | A | Quanto custa o retrabalho no escritório (calculadora como isca) | Comente PLANILHA | agendado 2026-10-31 |
+| 12 | F | Checklist de fechamento do mês em 7 passos | Salve | a fazer |
 | 13 | R | Crédito amplo de IBS e CBS: o que muda na compra dos seus clientes | Salve | a fazer |
 | 14 | E | Qual tarefa você entregaria para um robô amanhã? (enquete 1 a 5) | Comente o número | a fazer |
 | 15 | F | 13º salário: prazos e erros comuns no fechamento de novembro e dezembro | Salve | a fazer |
@@ -31,5 +31,7 @@ Pilares, em rodízio para não repetir assunto em dias seguidos:
 | 24 | A | 3 relatórios que o cliente adora receber e dá para gerar sozinho | Comente | a fazer |
 | 25 | R | Nota fiscal em 2026: os campos novos de IBS e CBS | Salve | a fazer |
 | 26 | E | Mito ou verdade: 5 frases sobre a reforma | Comente | a fazer |
+
+Preferência da Fernanda (30/10): temas que tragam cliente, mostrando o problema que a FrancoTech resolve, com chamada que gere conversa. Evitar reforma tributária genérica, que já está batida; reforma só com ângulo prático para o escritório.
 
 Quando faltarem 5 temas `a fazer`, o agente acrescenta mais 10 seguindo os pilares.
