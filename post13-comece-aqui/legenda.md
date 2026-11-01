@@ -1,25 +1,22 @@
-# Post 13: Comece aqui (post para fixar no perfil)
+# Post 13: Comece aqui, o que nossos robôs fizeram esta semana (post para fixar no perfil)
 
 CTA do último slide: "Mande DIAGNÓSTICO"
 
 ## Legenda
 
-Chegou agora? Prazer, somos a Franco Tecnologia. 👋
+Chegou agora? Em vez de contar o que a gente promete, olha o que nossos robôs fizeram nesta semana na rotina de escritórios contábeis. 👇
 
-A gente faz robôs para escritórios contábeis. E nasceu dentro de um: a Franco Contabilidade. Cada automação resolve um problema que a gente viveu primeiro.
+📂 175 clientes com as NFS-e do mês baixadas numa noite: o robô entra na prefeitura de cada um e salva XML e PDF na pasta certa.
+🧾 628 notas de um cliente só, baixadas e organizadas sem ninguém digitar.
+🔎 156 notas com ISS retido encontradas no XML, em 22 empresas, num mês só.
+📨 Guias de parcelamento emitidas, salvas na pasta do cliente e enviadas por e-mail ou WhatsApp, todo mês.
+🧮 NFS-e emitida no padrão nacional e no ISSNet, já com IBS e CBS, e nota recorrente que sai sozinha.
+📊 Tudo num painel: o que o robô fez, o que falhou e o que precisa de alguém da equipe.
 
-O que dá para tirar das costas da sua equipe:
-🤖 Envio de guias: o robô pega a guia, salva na pasta do cliente e envia por e-mail ou WhatsApp.
-🧾 Emissão de notas: NFS-e e NF-e sem digitar, com emissão recorrente agendada.
-📊 Painel do escritório: o que o robô fez, o que deu erro e o que a equipe precisa resolver.
-🛠️ Sob medida: tem outra tarefa repetitiva? A gente avalia e constrói.
+Como começa: um diagnóstico de 20 minutos na sua rotina, a gente escolhe a automação que mais devolve horas, o robô passa a rodar com os seus acessos e você acompanha tudo pelo painel.
 
-Como funciona: diagnóstico gratuito de 20 minutos, a gente escolhe junto a primeira automação, o robô começa a rodar na sua carteira e a equipe fica livre para o cliente.
-
-Por aqui sai post novo todo dia às 10h, sobre automação, rotina do escritório e reforma tributária na prática.
-
-Quer ver o que dá para automatizar no seu escritório? Mande DIAGNÓSTICO no direct. 📩
+Qual desses você quer no seu escritório? Mande DIAGNÓSTICO no direct. 📩
 
 ## Hashtags
 
-#Contabilidade #EscritorioContabil #Contador #AutomacaoContabil #TecnologiaContabil #RoboContabil #GestaoContabil #FrancoTecnologia
+#Contabilidade #EscritorioContabil #Contador #AutomacaoContabil #TecnologiaContabil #RoboContabil #NFSe #GestaoContabil
