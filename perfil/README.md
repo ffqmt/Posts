@@ -44,7 +44,7 @@ Em Editar perfil, Opções de contato: ativar WhatsApp e e-mail. Aparece um bot�
 
 ## 5. Posts fixados (até 3)
 
-1. **Comece aqui** (post 13, sai em 04/11): explica o que a Franco Tecnologia faz e termina com "Mande DIAGNÓSTICO".
+1. **Comece aqui** (post 13, sai em 04/11): mostra com números reais o que os robôs fizeram e termina com "Mande DIAGNÓSTICO".
 2. **Quanto custa o retrabalho?** (31/10): a calculadora que vira lead.
 3. **5 sinais de que é hora de automatizar** (01/11): o post de mais conversa.
 
