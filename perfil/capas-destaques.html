@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Capas dos destaques</title>
+<link rel="stylesheet" href="../template/carrossel.css">
+<style>
+  /* Capa de destaque: imagem de story (1080x1920); o Instagram mostra só o círculo do centro. */
+  .capa { width: 1080px; height: 1920px; flex: none; position: relative; display: flex; align-items: center; justify-content: center;
+    background: radial-gradient(circle 700px at 50% 50%, rgba(24, 74, 100, 0.55), transparent 70%), var(--bg); }
+  .circulo { width: 640px; height: 640px; border-radius: 50%; border: 6px solid var(--destaque);
+    box-shadow: 0 0 60px rgba(60, 200, 245, 0.45), inset 0 0 60px rgba(60, 200, 245, 0.15);
+    display: flex; align-items: center; justify-content: center;
+    font-family: var(--titulo); font-weight: 700; font-size: 210px; letter-spacing: -0.03em; color: var(--texto); }
+  .circulo em { text-shadow: 0 0 28px rgba(60, 200, 245, 0.55); }
+</style>
+</head>
+<body>
+<section class="slide capa" data-nome="comece-aqui"><div class="circulo">O<em>i</em></div></section>
+<section class="slide capa" data-nome="robos"><div class="circulo">B<em>o</em>t</div></section>
+<section class="slide capa" data-nome="calculadora"><div class="circulo"><em>R$</em></div></section>
+<section class="slide capa" data-nome="diagnostico"><div class="circulo">20<em>'</em></div></section>
+<section class="slide capa" data-nome="reforma"><div class="circulo">IB<em>S</em></div></section>
+</body>
+</html>
