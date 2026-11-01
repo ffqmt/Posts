@@ -1,6 +1,6 @@
 # Pauta do @franco_tecnologia
 
-Um carrossel por dia, às 10h (horário de Brasília). O agente diário pega o primeiro tema com status `a fazer`, cria o post e muda o status para `agendado AAAA-MM-DD`.
+Um carrossel por dia, às 10h (horário de Brasília), e um story às 18h do mesmo dia chamando para ele. O agente diário pega o primeiro tema com status `a fazer`, cria o post e muda o status para `agendado AAAA-MM-DD`.
 
 Público: donos e equipes de escritórios contábeis. Objetivo: conteúdo que vale salvar e compartilhar, e que puxa conversa nos comentários (porta de entrada da prospecção).
 
@@ -17,7 +17,8 @@ Pilares, em rodízio para não repetir assunto em dias seguidos:
 | 10 | R | Split payment: o imposto separado no pagamento | Compartilhe | agendado 2026-11-02 |
 | 11 | A | Quanto custa o retrabalho no escritório (calculadora como isca) | Comente PLANILHA | agendado 2026-10-31 |
 | 12 | A | Fechamento do mês em 7 passos: quais dá para automatizar | Comente o número | agendado 2026-11-03 |
-| 13 | R | Crédito amplo de IBS e CBS: o que muda na compra dos seus clientes | Salve | a fazer |
+| 13 | E | Comece aqui: o que a Franco Tecnologia faz (fixar no perfil) | Mande DIAGNÓSTICO | agendado 2026-11-04 |
+| 13b | R | Crédito amplo de IBS e CBS: o que muda na compra dos seus clientes | Salve | a fazer |
 | 14 | E | Qual tarefa você entregaria para um robô amanhã? (enquete 1 a 5) | Comente o número | a fazer |
 | 15 | F | 13º salário: prazos e erros comuns no fechamento de novembro e dezembro | Salve | a fazer |
 | 16 | R | Imposto Seletivo: o que é e quem é atingido | Compartilhe | a fazer |

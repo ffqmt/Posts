@@ -5,6 +5,7 @@ Instruções que a tarefa agendada segue todo dia. Também servem para qualquer 
 ## Regras
 
 - Um carrossel por dia no Instagram @franco_tecnologia, às **10h de Brasília** (pico de alcance segundo o Metricool em todos os dias da semana).
+- Um story no mesmo dia às **18h** (segundo pico), feito com `npm run story postN-assunto`, chamando para o post.
 - Agendar com **2 dias de antecedência**, para dar tempo de a Fernanda ver a prévia e cancelar no Metricool se quiser.
 - Publicação pelo Metricool, marca `franco_tecnologia` (brandId 6611644, fuso America/Sao_Paulo), com publicação automática.
 - As imagens precisam de URL pública: use `https://raw.githubusercontent.com/ffqmt/Posts/main/<pasta>/<arquivo>.jpg`. Por isso o post precisa estar na `main` **antes** de agendar.
@@ -12,6 +13,8 @@ Instruções que a tarefa agendada segue todo dia. Também servem para qualquer 
 - Este repositório é público: nada de dados de clientes ou leads aqui.
 
 ## Conteúdo
+
+- Temas que tragam cliente: mostrar uma dor que a FrancoTech resolve e terminar com chamada que gere conversa (comentário com palavra-chave, número, diagnóstico). Reforma tributária só com ângulo prático para o escritório (pedido da Fernanda em 30/10).
 
 - Público: escritórios contábeis. Tom direto, frases curtas, sem jargão desnecessário.
 - Só afirme fatos sobre tributos que estejam na EC 132/2023 ou na LC 214/2025, ou em norma oficial publicada. Na dúvida, deixe o número de fora e fale do conceito.
@@ -23,8 +26,9 @@ Instruções que a tarefa agendada segue todo dia. Também servem para qualquer 
 1. `git pull origin main` e `npm install`.
 2. Em `pauta.md`, pegue o primeiro tema `a fazer`.
 3. Copie `template/novo-post/` para `postN-assunto/`, escreva `slides.html` e `legenda.md`.
-4. `npm run exportar postN-assunto` e confira as imagens (texto cabendo, nada cortado).
+4. `npm run exportar postN-assunto` e `npm run story postN-assunto`, e confira as imagens (texto cabendo, nada cortado).
 5. Mude o status na pauta para `agendado AAAA-MM-DD`, faça commit e push na `main`.
 6. Confirme que a primeira imagem abre pela URL do raw.githubusercontent.com.
 7. Agende no Metricool: data D+2 às 10:00, rede instagram, `instagramData.type` POST, `media` com as URLs na ordem, texto = legenda + linha em branco + hashtags.
-8. Avise na conversa do projeto com a prévia: tema, data e o link do Metricool.
+8. Agende também o story: mesma data às 18:00, `instagramData.type` STORY, `media` só com `postN-assunto-story.jpg`, sem texto.
+9. Avise na conversa do projeto com a prévia: tema, data e o link do Metricool.
