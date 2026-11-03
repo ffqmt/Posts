@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Stories fixos dos produtos</title>
+<link rel="stylesheet" href="../template/carrossel.css">
+<style>
+  .st { width: 1080px; height: 1920px; flex: none; position: relative; overflow: hidden; display: flex; flex-direction: column; justify-content: center;
+    padding: 0 110px; font-family: var(--corpo); color: var(--texto); }
+  .st h2 { font-size: 92px; line-height: 1.08; }
+  .st p { font-size: 50px; }
+  .st .lista li { font-size: 58px; padding: 40px 0 38px; }
+  .st .botao { font-size: 50px; }
+  .st .rodape { position: absolute; bottom: 110px; left: 110px; right: 110px; font-family: var(--titulo); font-size: 34px; }
+  .rodape .arroba { color: #8ea4c4; }
+  .contai { background: radial-gradient(ellipse 900px 600px at 100% 0%, rgba(26,120,220,.42), transparent 70%), radial-gradient(ellipse 700px 500px at 0% 100%, rgba(34,226,191,.18), transparent 70%), #050d17; }
+  .contai em { background: linear-gradient(90deg,#2a7dff,#1aa3f5 55%,#22e2bf); -webkit-background-clip:text; background-clip:text; color:transparent; font-style:normal; }
+  .contai .rotulo, .contai .lista li::before { color:#1aa3f5; }
+  .contai .botao { border-color:#22e2bf; color:#22e2bf; box-shadow:none; }
+  .autax { background: radial-gradient(ellipse 900px 600px at 100% 0%, rgba(200,150,100,.26), transparent 70%), radial-gradient(ellipse 700px 500px at 0% 100%, rgba(40,200,190,.12), transparent 70%), #0e0d0c; }
+  .autax em { background: linear-gradient(90deg,#f0cfa6,#c8925f 60%,#e9c393); -webkit-background-clip:text; background-clip:text; color:transparent; font-style:normal; }
+  .autax .rotulo, .autax .lista li::before { color:#3fd8cf; }
+  .autax .botao { border-color:#d6a77a; color:#e9c393; box-shadow:none; }
+  .autax p { color:#ddd3c8; }
+  .logo-c { height: 170px; margin-bottom: 120px; align-self: flex-start; }
+  .logo-a { height: 360px; margin-bottom: 110px; align-self: flex-start; }
+  /* Capas dos destaques: o Instagram mostra só o círculo central */
+  .capa { justify-content: center; align-items: center; padding: 0; }
+  .circulo { width: 640px; height: 640px; border-radius: 50%; display: flex; align-items: center; justify-content: center; }
+  .contai .circulo { border: 6px solid #1aa3f5; }
+  .autax .circulo { border: 6px solid #c8925f; }
+  .circulo img { width: 62%; }
+</style>
+</head>
+<body>
+<section class="st contai" data-nome="contai-1">
+  <img class="logo-c" src="contai-logo.png" alt="ContAi">
+  <h2>As rotinas do seu escritório <em>rodando sozinhas.</em></h2>
+  <p>O painel de automações feito para escritórios contábeis, com o nome do seu escritório.</p>
+  <div class="rodape"><span class="arroba">@franco_tecnologia</span></div>
+</section>
+<section class="st contai" data-nome="contai-2">
+  <div class="rotulo">O que o ContAi faz</div>
+  <ol class="lista">
+    <li>Emite e envia guias ao cliente</li>
+    <li>Baixa as notas de todos os clientes</li>
+    <li>Monta a admissão pela foto dos documentos</li>
+    <li>Organiza pedidos e prazos no Inbox</li>
+    <li>Emite NFS-e com o AUTAX</li>
+  </ol>
+  <div class="rodape"><span class="arroba">@franco_tecnologia</span></div>
+</section>
+<section class="st contai" data-nome="contai-3">
+  <div class="rotulo">Quer ver funcionando?</div>
+  <h2>A gente mostra o painel <em>com a sua rotina.</em></h2>
+  <p>Manda CONTAI no direct.</p>
+  <div class="botao">CONTAI no direct</div>
+  <div class="rodape"><span class="arroba">@franco_tecnologia</span></div>
+</section>
+<section class="st autax" data-nome="autax-1">
+  <img class="logo-a" src="autax-logo.png" alt="AUTAX">
+  <h2>Nota fiscal de serviço <em>sem retrabalho.</em></h2>
+  <p>Inteligência e automação fiscal para quem emite nota todo mês.</p>
+  <div class="rodape"><span class="arroba">@franco_tecnologia</span></div>
+</section>
+<section class="st autax" data-nome="autax-2">
+  <div class="rotulo">O que o AUTAX faz</div>
+  <ol class="lista">
+    <li>NFS-e nacional e ISSNet</li>
+    <li>IBS e CBS já preenchidos</li>
+    <li>Nota recorrente automática</li>
+    <li>Corrigir nota rejeitada</li>
+    <li>Assinatura com certificado A1</li>
+  </ol>
+  <div class="rodape"><span class="arroba">@franco_tecnologia</span></div>
+</section>
+<section class="st autax" data-nome="autax-3">
+  <div class="rotulo">Quer ver uma nota saindo?</div>
+  <h2>Emitir nota <em>sem dor de cabeça.</em></h2>
+  <p>Manda AUTAX no direct.</p>
+  <div class="botao">AUTAX no direct</div>
+  <div class="rodape"><span class="arroba">@franco_tecnologia</span></div>
+</section>
+<section class="st contai capa" data-nome="capa-contai"><div class="circulo"><img src="contai-simbolo.png" alt=""></div></section>
+<section class="st autax capa" data-nome="capa-autax"><div class="circulo"><img src="autax-simbolo.png" alt=""></div></section>
+</body>
+</html>

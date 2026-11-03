@@ -1,0 +1,12 @@
+/* Tema ContAi: azul #2a7dff → ciano #1aa3f5 → menta #22e2bf sobre marinho #050d17 */
+:root { --bg: #050d17; --destaque: #1aa3f5; --cinza: #7f97b8; }
+.slide { background: radial-gradient(ellipse 760px 460px at 100% 0%, rgba(26, 120, 220, 0.38), transparent 70%),
+  radial-gradient(ellipse 560px 380px at 0% 100%, rgba(34, 226, 191, 0.16), transparent 70%), var(--bg); }
+em { background: linear-gradient(90deg, #2a7dff, #1aa3f5 55%, #22e2bf); -webkit-background-clip: text; background-clip: text; color: transparent; }
+h1 em { text-shadow: none; }
+.barra { background: linear-gradient(90deg, #2a7dff, #22e2bf); box-shadow: none; }
+.botao { border-color: #22e2bf; color: #22e2bf; box-shadow: none; }
+.logo { height: 130px; margin-bottom: 100px; display: block; }
+.simbolo-fundo { position: absolute; right: -160px; bottom: 120px; width: 620px; opacity: 0.08; pointer-events: none; }
+.chip { display: inline-block; margin-top: 50px; padding: 18px 30px; border: 2px solid rgba(26,163,245,.5); border-radius: 14px;
+  font-family: var(--titulo); font-size: 38px; color: #cfe6ff; }
