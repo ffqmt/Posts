@@ -26,7 +26,7 @@ Pilares, em rodízio para não repetir assunto em dias seguidos:
 | 18 | F | Caixa postal do e-CAC e DTE: por que olhar toda semana | Salve | a fazer |
 | 19 | R | Cadastro de produtos: os 4 campos que mais dão erro | Salve | a fazer |
 | 20 | E | Bastidores: como a Franco Contabilidade usa robôs no dia a dia | Comente | a fazer |
-| 21 | A | Envio automático de guias: o cliente recebe, você não digita | Comente | a fazer |
+| 21 | A | Envio automático de guias: o cliente recebe, você não digita (pasta post14-envio-guias) | Comente GUIA | agendado 2026-11-05 |
 | 22 | R | Simples Nacional na reforma: ficar dentro ou recolher IBS/CBS por fora | Salve | a fazer |
 | 23 | F | Planejamento de janeiro: o que adiantar ainda em dezembro | Salve | a fazer |
 | 24 | A | 3 relatórios que o cliente adora receber e dá para gerar sozinho | Comente | a fazer |
