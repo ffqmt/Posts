@@ -32,3 +32,13 @@ Instruções que a tarefa agendada segue todo dia. Também servem para qualquer 
 7. Agende no Metricool: data D+2 às 10:00, rede instagram, `instagramData.type` POST, `media` com as URLs na ordem, texto = legenda + linha em branco + hashtags.
 8. Agende também o story: mesma data às 18:00, `instagramData.type` STORY, `media` só com `postN-assunto-story.jpg`, sem texto.
 9. Avise na conversa do projeto com a prévia: tema, data e o link do Metricool.
+
+## Post semanal dos robôs (toda quarta)
+
+Pedido da Fernanda em 03/11: toda semana sai um carrossel "O que nossos robôs fizeram esta semana" e o story dele. Quando D+2 for quarta (a tarefa diária de segunda), o post não vem da pauta.
+
+1. Leia as threads do projeto com atividade nos últimos 7 dias (`list_thread_sessions` com `since_ts`, depois `fetch_thread`) e anote só os resultados de robôs e automações que estejam escritos lá com número: notas baixadas, guias enviadas, clientes processados, notas emitidas, horas economizadas.
+2. Use o número exatamente como está na thread. Nada inventado, estimado ou arredondado para cima. Se tiver menos de 3 resultados reais na semana, faça o post da pauta e avise a Fernanda.
+3. Nunca cite nome de cliente, escritório ou pessoa. Escreva "um cliente", "um escritório", "22 empresas".
+4. Pasta `postN-robos-semana-AAAA-MM-DD/`, mesmo formato do post 13 (capa, 5 ou 6 resultados, como começa, chamada "Mande DIAGNÓSTICO"). Varie a capa e a ordem para não ficar igual toda semana; destaque na capa o maior número da semana.
+5. Na pauta, registre uma linha `S` com a data. Os temas `a fazer` continuam nos outros dias.

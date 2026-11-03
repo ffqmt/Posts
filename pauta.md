@@ -9,6 +9,7 @@ Pilares, em rodízio para não repetir assunto em dias seguidos:
 - **A** Automação e produtividade no escritório
 - **F** Rotina fiscal e prazos
 - **E** Engajamento (enquete, "comente o número", bastidores)
+- **S** Semanal: toda quarta, "O que nossos robôs fizeram esta semana", com números reais (ver AGENTE.md)
 
 | # | Pilar | Tema | CTA | Status |
 |---|---|---|---|---|
