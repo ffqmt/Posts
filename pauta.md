@@ -19,6 +19,14 @@ Pilares, em rodízio para não repetir assunto em dias seguidos:
 | 11 | A | Quanto custa o retrabalho no escritório (calculadora como isca) | Comente PLANILHA | agendado 2026-10-31 |
 | 12 | A | Fechamento do mês em 7 passos: quais dá para automatizar | Comente o número | agendado 2026-11-03 |
 | 13 | E | Comece aqui: o que nossos robôs fizeram esta semana (fixar no perfil) | Mande DIAGNÓSTICO | agendado 2026-11-04 |
+| 29 | F | O e-CAC acaba em dezembro de 2026: o que o escritório precisa ajustar | Compartilhe | a fazer |
+| 30 | A | Admissão digital: o cliente manda foto dos documentos e o cadastro sai pronto | Comente ADMISSÃO | a fazer |
+| 31 | A | Pedido do cliente no WhatsApp vira tarefa com prazo no painel | Comente | a fazer |
+| 32 | A | Nota fiscal recorrente: a NFS-e do mês que sai sozinha | Comente NOTA | a fazer |
+| 33 | F | Parcela esquecida: guia enviada antes do vencimento, todo mês | Salve | a fazer |
+| 34 | E | Um dia no escritório com robôs, hora a hora | Comente | a fazer |
+| 35 | A | Por que a guia não chegou: os 4 motivos e como o robô avisa | Salve | a fazer |
+| 36 | E | Mito ou verdade: robô substitui o contador? | Comente | a fazer |
 | 13b | R | Crédito amplo de IBS e CBS: o que muda na compra dos seus clientes | Salve | a fazer |
 | 14 | E | Qual tarefa você entregaria para um robô amanhã? (enquete 1 a 5) | Comente o número | a fazer |
 | 15 | F | 13º salário: prazos e erros comuns no fechamento de novembro e dezembro | Salve | a fazer |
@@ -33,16 +41,6 @@ Pilares, em rodízio para não repetir assunto em dias seguidos:
 | 24 | A | 3 relatórios que o cliente adora receber e dá para gerar sozinho | Comente | a fazer |
 | 25 | R | Nota fiscal em 2026: os campos novos de IBS e CBS | Salve | a fazer |
 | 26 | E | Mito ou verdade: 5 frases sobre a reforma | Comente | a fazer |
-| 27 | A | Antes e depois: NFS-e de todos os clientes baixadas numa noite (enquete: quanto tempo leva aí?) | Comente o número | a fazer |
-| 28 | F | ISS retido: o erro que passa batido e como o XML entrega | Salve | a fazer |
-| 29 | F | O e-CAC acaba em dezembro de 2026: o que o escritório precisa ajustar | Compartilhe | a fazer |
-| 30 | A | Admissão digital: o cliente manda foto dos documentos e o cadastro sai pronto | Comente ADMISSÃO | a fazer |
-| 31 | A | Pedido do cliente no WhatsApp vira tarefa com prazo no painel | Comente | a fazer |
-| 32 | A | Nota fiscal recorrente: a NFS-e do mês que sai sozinha | Comente NOTA | a fazer |
-| 33 | F | Parcela esquecida: guia enviada antes do vencimento, todo mês | Salve | a fazer |
-| 34 | E | Um dia no escritório com robôs, hora a hora | Comente | a fazer |
-| 35 | A | Por que a guia não chegou: os 4 motivos e como o robô avisa | Salve | a fazer |
-| 36 | E | Mito ou verdade: robô substitui o contador? | Comente | a fazer |
 
 Preferência da Fernanda (30/10): temas que tragam cliente, mostrando o problema que a FrancoTech resolve, com chamada que gere conversa. Evitar reforma tributária genérica, que já está batida; reforma só com ângulo prático para o escritório.
 
