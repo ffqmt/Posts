@@ -21,6 +21,7 @@ Pilares, em rodízio para não repetir assunto em dias seguidos:
 | 13 | E | Comece aqui: o que nossos robôs fizeram esta semana (fixar no perfil) | Mande DIAGNÓSTICO | agendado 2026-11-04 |
 | P1 | P | Produto: Conheça o ContAi (pasta post15-contai) | Comente CONTAI | agendado 2026-11-06 |
 | P2 | P | Produto: Conheça o AUTAX (pasta post16-autax) | Comente AUTAX | agendado 2026-11-07 |
+| D1 | E | O que nossos clientes têm falado (depoimentos sem nome, pasta post17-depoimentos) | Mande DIAGNÓSTICO | agendado 2026-11-09 |
 | 29 | F | O e-CAC acaba em dezembro de 2026: o que o escritório precisa ajustar | Compartilhe | a fazer |
 | 30 | A | Admissão digital: o cliente manda foto dos documentos e o cadastro sai pronto | Comente ADMISSÃO | a fazer |
 | 31 | A | Pedido do cliente no WhatsApp vira tarefa com prazo no painel | Comente | a fazer |
