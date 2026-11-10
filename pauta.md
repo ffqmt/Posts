@@ -25,7 +25,7 @@ Pilares, em rodízio para não repetir assunto em dias seguidos:
 | S1 | S | O que nossos robôs fizeram esta semana, 02 a 09/11 (pasta post20-robos-semana-2026-11-11) | Mande DIAGNÓSTICO | agendado 2026-11-11 |
 | 29 | F | O e-CAC acaba em dezembro de 2026: o que o escritório precisa ajustar (pasta post18-fim-ecac) | Compartilhe | agendado 2026-11-08 |
 | 30 | A | Admissão digital: o cliente manda foto dos documentos e o cadastro sai pronto | Comente ADMISSÃO | agendado 2026-11-10 (pasta post19-admissao-digital) |
-| 31 | A | Pedido do cliente no WhatsApp vira tarefa com prazo no painel | Comente | a fazer |
+| 31 | A | Pedido do cliente no WhatsApp vira tarefa com prazo no painel (pasta post21-whatsapp-tarefa) | Comente PEDIDO | agendado 2026-11-12 |
 | 32 | A | Nota fiscal recorrente: a NFS-e do mês que sai sozinha | Comente NOTA | a fazer |
 | 33 | F | Parcela esquecida: guia enviada antes do vencimento, todo mês | Salve | a fazer |
 | 34 | E | Um dia no escritório com robôs, hora a hora | Comente | a fazer |
