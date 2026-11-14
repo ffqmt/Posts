@@ -29,7 +29,7 @@ Pilares, em rodízio para não repetir assunto em dias seguidos:
 | 32 | A | Nota fiscal recorrente: a NFS-e do mês que sai sozinha (pasta post22-nota-recorrente) | Comente NOTA | agendado 2026-11-13 |
 | 33 | F | Parcela esquecida: guia enviada antes do vencimento, todo mês (pasta post23-parcela-esquecida) | Salve | agendado 2026-11-14 |
 | 34 | E | Um dia no escritório com robôs, hora a hora (pasta post24-dia-com-robos) | Comente ROTINA | agendado 2026-11-15 |
-| 35 | A | Por que a guia não chegou: os 4 motivos e como o robô avisa | Salve | a fazer |
+| 35 | A | Por que a guia não chegou: os 4 motivos e como o robô avisa (pasta post25-guia-nao-chegou) | Salve | agendado 2026-11-16 |
 | 36 | E | Mito ou verdade: robô substitui o contador? | Comente | a fazer |
 | 13b | R | Crédito amplo de IBS e CBS: o que muda na compra dos seus clientes | Salve | a fazer |
 | 14 | E | Qual tarefa você entregaria para um robô amanhã? (enquete 1 a 5) | Comente o número | a fazer |
