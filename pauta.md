@@ -30,7 +30,7 @@ Pilares, em rodízio para não repetir assunto em dias seguidos:
 | 33 | F | Parcela esquecida: guia enviada antes do vencimento, todo mês (pasta post23-parcela-esquecida) | Salve | agendado 2026-11-14 |
 | 34 | E | Um dia no escritório com robôs, hora a hora (pasta post24-dia-com-robos) | Comente ROTINA | agendado 2026-11-15 |
 | 35 | A | Por que a guia não chegou: os 4 motivos e como o robô avisa (pasta post25-guia-nao-chegou) | Salve | agendado 2026-11-16 |
-| 36 | E | Mito ou verdade: robô substitui o contador? | Comente | a fazer |
+| 36 | E | Mito ou verdade: robô substitui o contador? (pasta post26-mito-verdade) | Comente MITO ou VERDADE | agendado 2026-11-17 |
 | 13b | R | Crédito amplo de IBS e CBS: o que muda na compra dos seus clientes | Salve | a fazer |
 | 14 | E | Qual tarefa você entregaria para um robô amanhã? (enquete 1 a 5) | Comente o número | a fazer |
 | 15 | F | 13º salário: prazos e erros comuns no fechamento de novembro e dezembro | Salve | a fazer |
