@@ -23,6 +23,7 @@ Pilares, em rodízio para não repetir assunto em dias seguidos:
 | P2 | P | Produto: Conheça o AUTAX (pasta post16-autax) | Comente AUTAX | agendado 2026-11-07 |
 | D1 | E | O que nossos clientes têm falado (depoimentos sem nome, pasta post17-depoimentos) | Mande DIAGNÓSTICO | agendado 2026-11-09 |
 | S1 | S | O que nossos robôs fizeram esta semana, 02 a 09/11 (pasta post20-robos-semana-2026-11-11) | Mande DIAGNÓSTICO | agendado 2026-11-11 |
+| S2 | S | O que nossos robôs fizeram esta semana, 09 a 16/11 (pasta post27-robos-semana-2026-11-18) | Mande DIAGNÓSTICO | agendado 2026-11-18 |
 | 29 | F | O e-CAC acaba em dezembro de 2026: o que o escritório precisa ajustar (pasta post18-fim-ecac) | Compartilhe | agendado 2026-11-08 |
 | 30 | A | Admissão digital: o cliente manda foto dos documentos e o cadastro sai pronto | Comente ADMISSÃO | agendado 2026-11-10 (pasta post19-admissao-digital) |
 | 31 | A | Pedido do cliente no WhatsApp vira tarefa com prazo no painel (pasta post21-whatsapp-tarefa) | Comente PEDIDO | agendado 2026-11-12 |
