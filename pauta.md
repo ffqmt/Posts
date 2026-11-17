@@ -33,7 +33,7 @@ Pilares, em rodízio para não repetir assunto em dias seguidos:
 | 35 | A | Por que a guia não chegou: os 4 motivos e como o robô avisa (pasta post25-guia-nao-chegou) | Salve | agendado 2026-11-16 |
 | 36 | E | Mito ou verdade: robô substitui o contador? (pasta post26-mito-verdade) | Comente MITO ou VERDADE | agendado 2026-11-17 |
 | 13b | R | Crédito amplo de IBS e CBS: o que muda na compra dos seus clientes | Salve | a fazer |
-| 14 | E | Qual tarefa você entregaria para um robô amanhã? (enquete 1 a 5) | Comente o número | a fazer |
+| 14 | E | Qual tarefa você entregaria para um robô amanhã? (enquete 1 a 5) (pasta post28-enquete-robo) | Comente o número | agendado 2026-11-19 |
 | 15 | F | 13º salário: prazos e erros comuns no fechamento de novembro e dezembro | Salve | a fazer |
 | 16 | R | Imposto Seletivo: o que é e quem é atingido | Compartilhe | a fazer |
 | 17 | A | Do WhatsApp à pasta do cliente: como organizar documentos sem digitar nada | Salve | a fazer |
